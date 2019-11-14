@@ -14,6 +14,9 @@
 
 - Birthday
 
+- Position
+  * ~~小学生~~ 中学生
+
 - Blood Type
   * ~~AB~~ O
 
