@@ -1,12 +1,31 @@
 キャラクター設定
 -------------
 
-- 名前
+- Name
   * Satoちゃん (?)
 
-- 誕生日
+- CV
+
+- Height
+
+- Age
+
+- Weight
+
+- Birthday
+
+- Blood Type
+
+- Writing Hand
+  * Left
+
+- Size
+
+- Horoscope
 
 - 性格
-  * ~~中二病~~
+  * 中二病
 
 - 特徴
+
+- Bio
