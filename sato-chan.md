@@ -33,5 +33,6 @@
   * [Cypherpunk](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A1%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF)
 
 - 特徴
+  * [ゆめかわいい](https://www.lafary.net/culture/30469/)
 
 - Bio
