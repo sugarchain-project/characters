@@ -34,5 +34,5 @@
 
 - 特徴
   * [ゆめかわいい](https://www.lafary.net/culture/30469/)
-
+  * [迷惑](https://togetter.com/li/1297996)
 - Bio
