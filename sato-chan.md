@@ -15,13 +15,13 @@
 - Birthday
 
 - Position
-  * ~~小学生~~ 中学生
+  * ~~小学生~~ [中学生](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%AD%A6%E6%A0%A1)
 
 - Blood Type
-  * ~~AB~~ O
+  * ~~AB~~ [O](https://tabi-labo.com/210544/o-type-female-characteristic)
 
 - Writing Hand
-  * Left
+  * [左利き(Left)](https://www.buzzfeed.com/jp/hanashimada/lefthanded-struggle)
 
 - Size
 
