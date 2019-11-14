@@ -15,6 +15,7 @@
 - Birthday
 
 - Blood Type
+  * ~~AB~~ O
 
 - Writing Hand
   * Left
