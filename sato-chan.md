@@ -28,11 +28,16 @@
 - Horoscope
 
 - 性格
-  * [中二病](https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%8C%E7%97%85)
+  * ~~[中二病](https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%8C%E7%97%85)~~
   * ~~[アナキスト](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%82%AD%E3%82%BA%E3%83%A0)~~
-  * [Cypherpunk](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A1%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF)
+  * ~~[Cypherpunk](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A1%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF)~~
+  * [AI](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)
+
+- 口癖
+  * `私は何番目のSatoなの?`
 
 - 特徴
   * [ゆめかわいい](https://www.lafary.net/culture/30469/)
-  * [迷惑](https://togetter.com/li/1297996)
+  * ~~[迷惑](https://togetter.com/li/1297996)~~
+
 - Bio
