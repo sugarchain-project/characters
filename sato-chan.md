@@ -11,6 +11,7 @@
 - Age
 
 - Weight
+  * ひみつ♡
 
 - Birthday
 
