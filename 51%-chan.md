@@ -7,7 +7,7 @@
 - CV
 
 - Height
-  * 51 cm
+  * 151 cm
 
 - Age
 
@@ -31,9 +31,11 @@
 - Horoscope
 
 - 性格
-  * [Devil](https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94)
+  * ~~[Devil](https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94)~~
+  * [Fallen angel](https://ja.wikipedia.org/wiki/%E5%A0%95%E5%A4%A9%E4%BD%BF)
 
 - 口癖
+  * `闇に飲まれよ!(訳:お疲れ様です!)` FIXME
 
 - 特徴
 
